@@ -13,3 +13,5 @@
   JSON: /JSON <filename>
   changelog: /changelog
   pinf: /pinf
+  pdisable: /pdisable
+  license: /license
