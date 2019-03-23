@@ -3,4 +3,4 @@
 &redCurrent JNNPL version: $V_JNNPL=(version.type.cinf)
 &grayCurrent MText version: $V_MTEXT=(version.type.cinf)
 &redCurrent CINF version: $V_CINF=(version.type.cinf)
-&grayCurrent message: $V_MSG=(string.type.cinf=get.Null)
+&grayCurrent message: $V_MSG=(string.type.cinf=/URLhttps://www.youtube.com/URL//plugins/MulitPlugin/info/msg.cinf/URL)
