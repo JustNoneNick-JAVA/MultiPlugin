@@ -3,6 +3,6 @@
 &redCurrent JNNPL version: $V_JNNPL=(version.type.cinf)
 &grayCurrent MText version: $V_MTEXT=(version.type.cinf)
 &redCurrent CINF version: $V_CINF=(version.type.cinf)
-&grayCurrent message: $V_MSG=(string.type.cinf=/URLhttps://www.youtube.com/URL//plugins/MulitPlugin/info/msg.cinf/URL)
+&grayCurrent message: $V_MSG=(string.type.cinf=URL/https://raw.githubusercontent.com/JustNoneNick-JAVA/MultiPlugin/master/msg.cinf/URL:NAME/./plugins/MultiPlugin/info/msg.cinf/NAME)
 
 &gold$bTip: $r&goldType /changelog
