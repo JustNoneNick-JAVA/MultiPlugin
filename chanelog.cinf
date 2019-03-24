@@ -16,3 +16,5 @@
   pdisable: /pdisable
   license: /license
   update: /update
+
+- Added CINF compiler.
