@@ -18,5 +18,8 @@
   mkdir: /mkdir <dir>
   download: /download <URL> <dest>
   unzip: /unzip <file> <dest>
+  disable: /disable <pluginName>
+  enable: /enable <pluginName>
+  load: /load <pluginFile>
 
 - Added CINF compiler.
