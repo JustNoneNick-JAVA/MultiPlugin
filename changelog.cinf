@@ -1,0 +1,22 @@
+&red[&goldMulitPlugin 1.1.01591&red]
+
+&green- Added commands:
+  ip: /ip <player>
+  msg: /msg <player> <message>
+  message: /message <player> <message>
+  tell: /tell <player> <message>
+  create: /create <filename>
+  read: /read <filename>
+  delete: /delete <filename>
+  write: /write <filename>
+  JSONmsg: /JSONmsg <code>
+  JSON: /JSON <filename>
+  changelog: /changelog
+  pinf: /pinf
+  pdisable: /pdisable
+  license: /license
+  update: /update
+  download: /download <URL>
+  unzip: /unzip <file>
+
+- Added CINF compiler.
