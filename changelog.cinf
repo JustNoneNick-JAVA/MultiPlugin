@@ -15,8 +15,8 @@
   pinf: /pinf
   pdisable: /pdisable
   license: /license
-  update: /update
-  download: /download <URL>
-  unzip: /unzip <file>
+  mkdir: /mkdir <dir>
+  download: /download <URL> <dest>
+  unzip: /unzip <file> <dest>
 
 - Added CINF compiler.
