@@ -17,5 +17,6 @@
   license: /license
   update: /update
   download: /download <URL>
+  unzip: /unzip <file>
 
 - Added CINF compiler.
